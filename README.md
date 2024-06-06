@@ -18,15 +18,15 @@
   - Encoder-Decoder
   - Only-Decoder
 - LLM(Encoder-Decoder, Decoder) Model   
-  - Encoder-Decoder Model
-    BART, T5
-  - Decoder Model
-    GPT
+  - Encoder-Decoder Model:  
+    BART, T5  
+  - Decoder Model:  
+    GPT  
 - Retrieval Augmented Generation  
-  - RAG-Seq  
+  - RAG-Seq:    
     同個文件檢索出答案  
-  - RAG-Token
-    (可使用)多個文件檢索出答案
+  - RAG-Token:  
+    (可使用)多個文件檢索出答案  
 
 ### 2.LSTM
 實作 LSTM 並介紹 RNN
