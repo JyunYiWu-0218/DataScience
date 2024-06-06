@@ -13,7 +13,12 @@
 
 以文本生成為主，主要內容:  
 - Transformer
+  從 Encoder 端開始介紹到 Decoder 端,並說明(三大模型架構)：  
+  - Only-Encoder
+  - Encoder-Decoder
+  - Only-Decoder
 - LLM(Encoder-Decoder, Decoder) Model
+  
 - Retrieval Augmented Generation
 
 ### 2.LSTM
